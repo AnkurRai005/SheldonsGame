@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SheldonsGame/static/css/main.552a249e.css",
+    "main.js": "/SheldonsGame/static/js/main.75b71883.js",
+    "static/js/453.cf03192f.chunk.js": "/SheldonsGame/static/js/453.cf03192f.chunk.js",
+    "index.html": "/SheldonsGame/index.html",
+    "main.552a249e.css.map": "/SheldonsGame/static/css/main.552a249e.css.map",
+    "main.75b71883.js.map": "/SheldonsGame/static/js/main.75b71883.js.map",
+    "453.cf03192f.chunk.js.map": "/SheldonsGame/static/js/453.cf03192f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.552a249e.css",
+    "static/js/main.75b71883.js"
+  ]
+}
